@@ -1,3 +1,3 @@
 # Git Laboratory
-changes
-this will cause a conflict.
+changes for conflict
+test this will cause a conflict.
